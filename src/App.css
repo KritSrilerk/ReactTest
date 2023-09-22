@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+h1 , div
+{
+  text-align: center;
+}
+
+span
+{
+  font-size: 25px;
+  color: teal;
+}
+
+.txtcaltaxi{
+  font-size: 25px;
+  color: red;
+}
+
